@@ -4,6 +4,8 @@ Resolusi 2024
 - 5 proyek IUC 
 - Kursi ergonomis
 - Javascript
+  * Angular
+  * React
   * ES6
   * Framework JS
   * Vue
