@@ -6,3 +6,6 @@ Resolusi 2024
 - Javascript
   * Angular
   * React
+  * ES6
+  * Framework JS
+  * Vue
