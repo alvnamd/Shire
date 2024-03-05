@@ -3,3 +3,7 @@ Resolusi 2024
 - Corrola Cross hybrid 2023 black
 - 5 proyek IUC 
 - Kursi ergonomis
+- Javascript
+  * ES6
+  * Framework JS
+  * Vue
